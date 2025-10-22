@@ -1,16 +1,12 @@
-## Hi there 👋
+# Olá, me chamo Fernando Arruda ! 
+## Bem vindo ao meu perfil GitHub 👋
 
-<!--
-**FernandoArruda97/FernandoArruda97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou trabalhando em uma fábrica de alimentos como auxiliar de produção
+- 🌱 Atualmente estou aprendendo JavaScript através do curso sujeito programador e estou
+  participando do Santander Imersão digital onde estou seguindo um plano de estudos da trilha
+  que escolhi que é sobre mobile, estou gostanto bastante, já aprendi um pouco sobre o basico do JavaScript
+  Git e Github e estou indo agora para aprofundar mais lógica de programação
+- 🤔 Estou procurando uma oportunidade como um estágio para entrar de vez nesssa área da tecnologia e aprender
+ muito meus Hard Skills
+- 📫 Como entrar em contato comigo: Whatsapp: 81 99669-3180 ou Instagram: FernnandoArruda
